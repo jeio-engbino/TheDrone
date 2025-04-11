@@ -17,6 +17,7 @@ The service should be capable of doing:
 * Spring Boot version: 2.7.18
 * Made in Windows 11 Pro
 * run (localhost:8080) [TheDroneApplication](src/main/java/org/hitachi/drone/TheDroneApplication.java)
+* Postman collection was included that can be imported for testing to purposes.
 
 H2 **JDBC URL**: jdbc:h2:mem:drone \
 H2 **User Name**: sa \
